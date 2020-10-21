@@ -1499,10 +1499,10 @@
 // Opazioni dei parametri
 #define ENUM20_01_TEXT "English"
 #define ENUM20_02_TEXT "Deutsch"
-#define ENUM20_03_TEXT "Francais"
+#define ENUM20_03_TEXT "Français"
 #define ENUM20_04_TEXT "Nederlands"
 #define ENUM20_05_TEXT "Italiano"
-#define ENUM20_06_TEXT "Espanol"
+#define ENUM20_06_TEXT "Español"
 #define ENUM20_07_TEXT "Polski"
 #define ENUM20_08_TEXT "Ceski"
 #define ENUM22_01_TEXT "Temporanea"
